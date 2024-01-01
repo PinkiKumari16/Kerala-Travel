@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin:0%
+}
+.bar
+{
+    position:absolute;
+    background: hsl(44, 95%, 66%);
+    width: 40%;
+    height: 80%;
+    margin-left: 180px;
+    margin-top: 10px;
+
+}
+.head
+{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:10px;
+    margin-top: 10px;
+}
+.info
+{
+    position: absolute;
+    font-size: 8px;
+    margin-top: 2px;
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+/* .piv
+{
+    width: 30%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+} */
+.details
+{
+    position: absolute;
+    font-size: 5px;
+    margin-top: -135px;
+    margin-right: 0;
+    margin-left: 50%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.culture
+{
+    font-size: 4px;
+    color: rgb(168, 87, 244);
+}
+.blog img
+{
+    
+}
