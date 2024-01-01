@@ -1,0 +1,64 @@
+*{
+    padding: 0%;
+    margin:0%
+}
+.bar
+{
+    position:absolute;
+    background: hsl(44, 95%, 66%);
+    width: 40%;
+    height: 80%;
+    margin-left: 65rem;
+    margin-top: 5rem;
+
+}
+.head
+{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:5rem;
+    margin-top: 20px;
+}
+.regitation
+{
+    position: absolute;
+    margin-left: 10rem;
+    margin-top: 3rem;
+    
+}
+.info
+{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: 4rem;
+    margin-left: 0;
+    margin-bottom: 20px;
+}
+/* .piv
+{
+    width: 30%;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+} */
+.details
+{
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: -40rem;
+    /* margin-right: 0; */
+    margin-left: 50%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.culture
+{
+    font-size: 1rem;
+    color: rgb(87, 37, 133);
+}
+.register
+{
+    position: absolute;
+    font-size: 1.5rem;   
+    margin-top: 9rem;
+    margin-left: 5rem;
+}

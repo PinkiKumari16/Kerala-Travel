@@ -1,0 +1,131 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.image
+{
+    position: absolute;
+    width: 100%;
+    height:100%;
+}
+
+.contact_box
+{
+    position: absolute;
+    top: 20px;
+    right: 30rem;
+    color:#a20a0afc;
+    font-size: 20px;
+}
+.place_box
+{
+    position: absolute;
+    top: 20px;
+    right: 23rem;
+    color:#a20a0afc ;
+    font-size: 20px;
+}
+.blog_box
+{
+    position: absolute;
+    top: 20px;
+    right: 17rem;
+    color:#a20a0afc;
+    font-size: 20px;
+}
+.offer
+{
+    position: relative;
+    animation-name: example;
+    animation-duration: 8s;
+    animation-delay: 1s;
+    border-radius: 50%;
+    right: 140px;
+    left: 10px;
+    top: 45px;
+    width: 9rem;
+    height:auto;
+
+}
+@keyframes example {
+    0%   {background-color: red; left:0px; top:0px;}
+    25%  {background-color: yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:100px;}
+    75%  {background-color: green; left:0px; top:100px;}
+    100% {background-color: pink; left:0px; top:0px}
+}
+.place
+{
+    position: absolute;
+    background: #c8c4be;
+    margin-left: 50rem;
+    margin-top: 2rem;  
+}
+.area
+{
+    margin-left:2px;
+    font-family:sans-serif;
+    font-size:10px  
+}
+.place1
+{
+
+    margin-top: 8rem;
+    position: absolute;
+    margin-left:0;
+}
+.place2
+{
+    position: absolute;
+    margin-right:8rem;
+    margin-top: 8rem;
+    margin-left: 60rem;
+}
+.place3
+{
+    position: absolute;
+    margin-top:35rem;
+    margin-bottom: 3rem;
+}
+.place4
+{
+    position: absolute;
+    margin-right:10px;
+    margin-top: 35rem;
+    margin-left: 60rem;
+}
+.pra1
+{
+    position:absolute;
+    font-size: 18px;
+    margin-top: 8rem;
+    margin: right 0;
+    color: blue;
+    margin-left: 32rem;
+}
+.pra2
+{
+    position: absolute;
+    font-size: 18px ;
+    margin-top: 6rem;
+    margin-left: 92rem;
+    color: blue;
+    
+}
+.pra3
+{
+    position: absolute;
+    font-size:18px ;
+    margin-top: 30rem ;
+    color: blue;
+    margin-left: 30rem;
+}
+.pra4
+{
+    position: absolute;
+    font-size:18px ;
+    margin-left: 92rem;
+    color: blue;
+    margin-top: 33rem;
+}
